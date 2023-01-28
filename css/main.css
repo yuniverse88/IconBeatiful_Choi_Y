@@ -114,21 +114,23 @@ body {
     height: 100px;
     
 }
-#family {
+#DRNUT {
     grid-column: 2/3;
     cursor: pointer;
    
 
 }
 
-#like {
+#nuts {
     grid-column: 4/5;
     cursor: pointer;
+    margin-left: -50px;
+    margin-top: 20px;
    
 
 }
 
-#dad {
+#cuteAnimal {
     grid-column: 6/7;
     cursor: pointer;
 
@@ -136,41 +138,44 @@ body {
 
 #Outline {height: 100px;}
 
-#where {
+#drthree {
     grid-column: 8/9;
     cursor: pointer;
+    height: 100px;
 }
 
-#arrow {
+#strong {
     grid-column: 10/11;
     cursor: pointer;
 }
-#send {
+#people5 {
     grid-column: 2/3;
     grid-row: 2/3;
     cursor: pointer;
 }
 
-#voice {
+#DrWho{
     grid-column: 4/5;
     grid-row: 2/3;
 }
 
-#gear {
+#fox {
     grid-column: 6/7;
     grid-row: 2/3;
     cursor: pointer;
+    height: 150px;
 }
 
-#music {
+#friend {
     grid-column: 8/9;
     grid-row: 2/3;
     cursor: pointer;
 }
-#cross {
+#squirr {
     grid-column: 10/11;
     grid-row: 2/3;
     cursor: pointer;
+   
 }
 
 #main-footer {
@@ -199,4 +204,13 @@ Footer P{
 #slogan:hover {
     cursor: pointer;
      transform: scale(1.8); color: rgb(205, 86, 125);}
-    
+
+ #Layer_2:hover { fill: brown;}
+
+ #squirr:hover #squir3 { fill: rgb(252, 38, 102); }
+
+ #squirr:hover { transform: scale(2);}
+ #BigFace:hover { transform: scale(2);}
+
+ #strong:hover { transform: scale(2);}
+ #friend:hover {transform: rotate(-40deg);}
